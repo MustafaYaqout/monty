@@ -14,7 +14,5 @@ int main(int argc, char* argv[])
         fprintf(stderr, "Error: Can't open the file %s\n", argv[1]);
         exit(EXIT_FAILURE);
     }
-
     stack_t* stack = NULL;
-    
 }
